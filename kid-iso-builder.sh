@@ -106,7 +106,8 @@ p { font-size: 1.1rem; margin: 0.2rem 0; }
 </head>
 <body>
   <h1>ABSTRY DESKTOP</h1>
-  <p>Press Ctrl+S to open ABSTRY EXPLORER</p>
+  <p>Lightweight OS designed for secure, automatic, and resilient connection.</p>
+  <p>Press Ctrl+S to open Explorer</p>
   <div class="footer">Powered by Abdullahi Ibrahim Lailaba</div>
 </body>
 </html>
@@ -475,8 +476,6 @@ SECURITY ADVICE:
 TESTING:
 - Boot the ISO in a VM (qemu/virtualbox) first and verify behavior before flashing to devices.
 
-If you want:
-- I can produce a quick **unlock helper** (instructions + script) that you store offline for admin use, or
-- Convert this builder to produce multi-arch ISOs (i386/arm64) as well.
+For more information, contact us at WhatsApp: +234(0)8138605126
 
 NOTE
